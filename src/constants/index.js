@@ -110,7 +110,7 @@ const experiences = [
       " Technologies: Python, OpenCV, TensorFlow, Raspberry Pi, Computer Vision.",
       "Working on developing an autonomous UAV system to respond to emergency situations and reach the location while contacting the nearest police stations.",
       "The focus areas will include deep learning model training, UAV control systems, and optimizing real-time performance.",
-      "The instructor is expected to acquire proficiency in UAV programming, image segmentation, and pattern recognition in complex visual scenarios.",
+      "The area of focus is to acquire proficiency in UAV programming, image segmentation, and pattern recognition in complex visual scenarios.",
     ],
   },
   {
