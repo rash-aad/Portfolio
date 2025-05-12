@@ -115,7 +115,7 @@ const experiences = [
   },
   {
     title: "Emergency Response System",
-    project_name: "Netwrking System",
+    project_name: "Networking System",
     icon: flask,
     iconBg: "#E6DEDD",
     date: "Aug 2024 - Dec 2024",
