@@ -105,7 +105,7 @@ const experiences = [
     project_name: "Autonomous Drone",
     icon: raspberrypi,
     iconBg: "#383E56",
-    date: "Jan 202 - present",
+    date: "Jan 2025 - present",
     points: [
       " Technologies: Python, OpenCV, TensorFlow, Raspberry Pi, Computer Vision.",
       "Working on developing an autonomous UAV system to respond to emergency situations and reach the location while contacting the nearest police stations.",
