@@ -133,7 +133,7 @@ const experiences = [
     date: "April 2024 - May 2024",
     points: [
       "Technologies used: Python, TensorFlow, Scikit-learn, OpenCV",
-      "Created a health monitoring system using computer vision and machine learning techniques to dDetect critical falls in real time and trigger an immediate alert for rapid response.",
+      "Created a health monitoring system using computer vision and machine learning techniques to detect critical falls in real time and trigger an immediate alert for rapid response.",
       "Focused on real-time video capture and processing, implementing motion detection and real-time monitoring.",
     ],
   },
