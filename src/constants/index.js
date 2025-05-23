@@ -101,7 +101,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Emergency Response System for Real-Time Surveillance",
+    title: "UAV for crisis response",
     project_name: "Autonomous Drone",
     icon: raspberrypi,
     iconBg: "#383E56",
