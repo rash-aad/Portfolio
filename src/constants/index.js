@@ -101,17 +101,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "UAV for crisis response",
-    project_name: "Autonomous Drone",
+    title: "RAG-based Voice Assistant",
+    project_name: "Offline AI Assistant with Memory",
     icon: raspberrypi,
     iconBg: "#383E56",
-    date: "Jan 2025 - present",
+    date: "Jan 2025 - June 2025",
     points: [
-      " Technologies: Python, OpenCV, TensorFlow, Raspberry Pi, Computer Vision.",
-      "Developing an autonomous UAV system to respond to emergency situations and reach the location while contacting the nearest police stations.",
-      "The focus areas will include deep learning model training, UAV control systems, and optimizing real-time performance.",
-      "The area of focus is to acquire proficiency in UAV programming, image segmentation, and pattern recognition in complex visual scenarios.",
-    ],
+  "Built a low-latency offline AI voice assistant using a Retrieval-Augmented Generation (RAG) pipeline for context-aware conversations.",
+  "Optimized for Raspberry Pi 5 with on-device speech-to-text, lightweight LLM reasoning, and text-to-speech output.",
+  "Implemented persistent memory to store user-provided information and enable offline question answering.",
+],
   },
   {
     title: "Emergency Response System",
